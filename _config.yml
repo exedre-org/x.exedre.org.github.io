@@ -24,10 +24,12 @@ twitter_username: exedre
 github_username:  exedre
 
 # Build settings
-markdown: kramdown
-theme: jekyll-theme-minimal
+# markdown: kramdown
+# theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
