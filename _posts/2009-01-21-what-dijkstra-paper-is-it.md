@@ -9,12 +9,12 @@ guid: http://x.exedre.org/?p=3
 categories:
   - void
 ---
-What Dijkstra paper is it:
-The COBOL programmer
-came into a Homebrew Computer Club and says:
-What keyword expresses:
-Time goes by
-and you just keep going by endlessly,
-endlessly framing you into flow?
-And the C programmers say:
-while (1) {} loop
+    What Dijkstra paper is it:
+    The COBOL programmer
+    came into a Homebrew Computer Club and says:
+    What keyword expresses:
+    Time goes by
+    and you just keep going by endlessly,
+    endlessly framing you into flow?
+    And the C programmers say:
+    while (1) {} loop

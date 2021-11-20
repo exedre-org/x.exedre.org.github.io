@@ -9,7 +9,7 @@ guid: http://x.exedre.org/?p=31
 categories:
   - void
 ---
-You must remeber this
-a for is just a for, a while is just a while
-the fundamental thing&#8217;s a try
-as loop goes by
+    You must remeber this
+    a for is just a for, a while is just a while
+    the fundamental thing&#8217;s a try
+    as loop goes by
