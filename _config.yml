@@ -25,7 +25,7 @@ github_username:  exedre
 
 # Build settings
 markdown: kramdown
-# theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
@@ -43,4 +43,4 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
