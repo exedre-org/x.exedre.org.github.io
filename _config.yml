@@ -24,7 +24,7 @@ twitter_username: exedre
 github_username:  exedre
 
 # Build settings
-# markdown: kramdown
+markdown: kramdown
 # theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
