@@ -18,7 +18,7 @@ name: X
 description: >
   these poems are filed intentionally in
   void
-email: x@exedre.org 
+email: x @exedre.org
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: exedre
 github_username:  exedre
